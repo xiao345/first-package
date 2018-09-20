@@ -1,0 +1,14 @@
+{
+    "name": "xiao345/first-package",
+    "description": "the first composer package",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiao",
+            "email": "xiao345@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
